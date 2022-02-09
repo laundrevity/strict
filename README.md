@@ -1,3 +1,10 @@
+To run tests:
+```
+python3 -m pytest --log-cli-level=INFO -v
+```
+
+~~
+
 I want to better understand how this works:
 
 
